@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/18 -- Jan van Straaten" generator-info-url="http://www.servercare.nl">
+  <channel id="FOX">
+    <display-name lang="es">FOX</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="es">Warner Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="A&amp;E Mundo">
+    <display-name lang="es">A&amp;E Mundo</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="es">Sony</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+</tv>
