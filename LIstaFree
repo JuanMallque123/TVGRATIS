@@ -1,14 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FOX", FOX
+#EXTINF:-1 tvg-id="FOX",1 FOX
 
 http://ragnaroktv.com/hls_live/kr/FOX_HD/MzYyMDY2srA0tAQA/f0x.m3u8
 
-#EXTINF:-1 tvg-id="Warner Channel" Warner Channel
+#EXTINF:-1 tvg-id="Warner Channel",1 Warner Channel
 
 http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzYyMDY2srA0tAQA/warner.m3u8
 	
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pfIpnv.png", A&E
 
 http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzYyMDY2srA0tAQA/aehd.m3u8
