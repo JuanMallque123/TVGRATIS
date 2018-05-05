@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/tm3GFj1.png", FOX
 
-http://ragnaroktv.com/hls_live/kr/FOX_HD/MzYyMDY2srA0tAQA/f0x.m3u8
+http://petu15.pedromo.me/live/foxlatino/index.m3u8?token=RzG4Qu1GlfHEzQo8hEMvGQ&expires=1525644298
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.imgur.com/SKMIjjk.png", Warner Channel
 
@@ -96,7 +96,7 @@ http://ragnaroktv.com/hls_live/kr/TOONCAST/MzYyMDY2srA0tAQA/tooncast.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.imgur.com/ajzFBOy.png", Cartoon Network
 
-http://tvpremiumhd.club/lista-gratuita/look/tv.php?l=17066&f=.m3u8
+http://s1.latinowebtv.tk:2082/livelwtv/256.m3u8?token=YIYuLtlV4ojb6_BqLHt6hw&expires=1525579265
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/dkCTLYQ.png", Nickelodeon
 
@@ -170,7 +170,7 @@ http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzYyMDY2srA0tAQA/sundance.m3u8
 
 http://ragnaroktv.com/hls_live/kr/CINELATINO/MzYyMDY2srA0tAQA/cinelatino.m3u8
 
-#EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.imgur.com/hXRxnmN.png", De Película
+#EXTINF:-1 tvg-id="De PelÃ­cula" tvg-logo="https://i.imgur.com/hXRxnmN.png", De PelÃ­cula
 
 http://ragnaroktv.com/hls_live/kr/DEPELICULA/MzYyMDY2srA0tAQA/depelicula.m3u8
 
@@ -259,7 +259,7 @@ https://uk-20g.firstonetv.net:4434/hls/78589132b7381c31a9b99243cdb952bb/15255170
 
 http://ragnaroktv.com/hls_live/kr/GOLF_CHANNEL_HD/MzYyMDY2srA0tAQA/golfchannel.m3u8
 
-#EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.imgur.com/96Wv968.png", CNN en Español
+#EXTINF:-1 tvg-id="CNN en EspaÃ±ol" tvg-logo="https://i.imgur.com/96Wv968.png", CNN en EspaÃ±ol
 
 http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/MzYyMDY2srA0tAQA/cnnee.m3u8
 
@@ -336,7 +336,7 @@ http://ragnaroktv.com/hls_live/kr/AZMUNDO_HD/MzYyMDY2srA0tAQA/azmundo.m3u8
 	
  
 
-#EXTINF:-1 tvg-id="Az Corazón" tvg-logo="https://i.imgur.com/coqdrwa.png", Az Corazón
+#EXTINF:-1 tvg-id="Az CorazÃ³n" tvg-logo="https://i.imgur.com/coqdrwa.png", Az CorazÃ³n
 
 
 http://ragnaroktv.com/hls_live/kr/AZCORAZON_HD/MzYyMDY2srA0tAQA/azcorazon.m3u8
