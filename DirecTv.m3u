@@ -2,57 +2,55 @@
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/tm3GFj1.png", FOX
 
-http://petu15.pedromo.me/live/foxlatino/index.m3u8?token=RzG4Qu1GlfHEzQo8hEMvGQ&expires=1525644298
+http://s7.latinowebtv.tk:2082/livelwtv/128.m3u8?token=aSd8t_iqILXUOGvZSevMJw&expires=1525649218
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.imgur.com/SKMIjjk.png", Warner Channel
 
-http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzYyMDY2srA0tAQA/warner.m3u8
-
+http://s8.latinowebtv.tk:2082/livelwtv/226.m3u8?token=fHG0u3nVBLDgqvcQKgC46g&expires=1525649303
 
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-logo="https://i.imgur.com/4ypp7YU.png", A&E Mundo
 
-http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzYyMDY2srA0tAQA/aehd.m3u8
+http://s8.latinowebtv.tk:2082/livelwtv/244.m3u8?token=NuKCTXctipgdG69qcb_FaA&expires=1525649351
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/BnQyG7R.png", SONY
 
-http://ragnaroktv.com/hls_live/kr/SONY_HD/MzYyMDY2srA0tAQA/sony.m3u8
+http://s4.latinowebtv.tk:2082/livelwtv/230.m3u8?token=WKEp9JiFaQc9rkxWCPubnw&expires=1525649394
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/6TK652y.png", AXN
 
-http://ragnaroktv.com/hls_live/kr/AXN_HD/MzYyMDY2srA0tAQA/axn.m3u8
+http://s2.latinowebtv.tk:2082/livelwtv/140.m3u8?token=p01B3XtFJnPKGH1MxmmcBw&expires=1525649441
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/alErSLo.png", AMC
 
-http://ragnaroktv.com/hls_live/kr/AMC_HD/MzYyMDY2srA0tAQA/amc.m3u8
+http://s4.latinowebtv.tk:2082/livelwtv/288.m3u8?token=yeHUwG361M5fP2wKrldkSw&expires=1525649522
 
 #EXTINF:-1 tvg-id="FOX Life" tvg-logo="https://i.imgur.com/2DGuJMW.png", FOX Life
 
-http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzYyMDY2srA0tAQA/f0xlife.m3u8
+http://s7.latinowebtv.tk:2082/livelwtv/283.m3u8?token=CmK_QjauC0jQvFIM61JI1A&expires=1525649566
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://i.imgur.com/w1cl1XH.png", TNT Series
 
-http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzYyMDY2srA0tAQA/tnt_ser.m3u8
-
+http://s5.latinowebtv.tk:2082/livelwtv/227.m3u8?token=_A8V1hl4ZW0NMAXlwAQ9vQ&expires=1525649628
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.imgur.com/Gphu9MU.png", Comedy Central
 
-http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzYyMDY2srA0tAQA/cc.m3u8
+http://s3.latinowebtv.tk:2082/livelwtv/248.m3u8?token=8Rn7mijiaU15KZr5ktTweQ&expires=1525649677
 
 #EXTINF:-1 tvg-id="TBS veryfunny" tvg-logo="https://i.imgur.com/vEtRdZX.png", TBS
 
-http://ragnaroktv.com/hls_live/kr/TBS_HD/MzYyMDY2srA0tAQA/tbs.m3u8
+http://s8.latinowebtv.tk:2082/livelwtv/228.m3u8?token=1frTVFWJAmHWzjnDrnhrLw&expires=1525649718
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/w7riHfL.png", FX
 
-http://ragnaroktv.com/hls_live/kr/FX_HD/MzYyMDY2srA0tAQA/fx.m3u8
+http://s3.latinowebtv.tk:2082/livelwtv/286.m3u8?token=WDA1KSOEis9GN99AqjzB5w&expires=1525649756
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://i.imgur.com/gq2J1Jy.png", Universal Channel
 
-http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzYyMDY2srA0tAQA/univers.m3u8
+http://s1.latinowebtv.tk:2082/livelwtv/285.m3u8?token=fV25zXNvwzfFxXj5B-4gWg&expires=1525649796
 
 #EXTINF:-1 tvg-id="truTV" tvg-logo="https://i.imgur.com/a79oYZb.png", TruTV
 
-http://ragnaroktv.com/hls_live/kr/TRU_TV_HD/MzYyMDY2srA0tAQA/trutv_hd.m3u8
+http://s7.latinowebtv.tk:2082/livelwtv/243.m3u8?token=z6bwguXJxfSF66ULbqwITA&expires=1525649829
 
 #EXTINF:-1 tvg-id="HOLA TV HD" tvg-logo="https://i.imgur.com/Mpgoyu7.png", HOLATV
 
@@ -92,7 +90,7 @@ http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzYyMDY2srA0tAQA/hb0fam.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/pt6Hw43.png", Tooncast
 
-http://ragnaroktv.com/hls_live/kr/TOONCAST/MzYyMDY2srA0tAQA/tooncast.m3u8
+http://s7.latinowebtv.tk:2082/livelwtv/282.m3u8?token=XopgmDJOEW_5YQdqjR1pFQ&expires=1525649887
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.imgur.com/ajzFBOy.png", Cartoon Network
 
@@ -100,7 +98,7 @@ http://s2.latinowebtv.tk:2082/livelwtv/256.m3u8?token=dmFhylNTWCuaToRVgAsQbg&exp
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/dkCTLYQ.png", Nickelodeon
 
-http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzYyMDY2srA0tAQA/nick.m3u8
+http://s6.latinowebtv.tk:2082/livelwtv/254.m3u8?token=ItK4BsSFM2XOCbnG1n922A&expires=1525649912
 
 #EXTINF:-1 tvg-id="Nick 2" tvg-logo="https://i.imgur.com/Db7PUBr.png", Nick 2
 
@@ -108,15 +106,15 @@ http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzYyMDY2srA0tAQA/nick2.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.imgur.com/syNDl09.png", Disney Channel
 
-http://ragnaroktv.com/hls_live/kr/DISNEY_HD/MzYyMDY2srA0tAQA/d1sney.m3u8
+http://s3.latinowebtv.tk:2082/livelwtv/104.m3u8?token=XGme26YKdTqQEKtiJnun0w&expires=1525649981
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://i.imgur.com/9r51nCG.png", Disney Junior
 
-http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzYyMDY2srA0tAQA/d1sneyjr.m3u8
+http://s2.latinowebtv.tk:2082/livelwtv/294.m3u8?token=SIEqAF2D7-vgWnFdKpxOTQ&expires=1525650042
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.imgur.com/ElsCeH6.png", Disney XD
 
-http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzYyMDY2srA0tAQA/d1sneyxd.m3u8
+http://s5.latinowebtv.tk:2082/livelwtv/280.m3u8?token=jLjllc9MZ8oyQyz1yoAUXg&expires=1525650011
 
 #EXTINF:-1 tvg-id="Natgeo Kids" tvg-logo="https://i.imgur.com/50Ypa0B.png", Natgeo Kids
 
