@@ -58,11 +58,11 @@ http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/MzYyMDY2srA0tAQA/hola.m3u8
 
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://i.imgur.com/3qirSb0.png", E
 
-http://ragnaroktv.com/hls_live/kr/E/MzYyMDY2srA0tAQA/e_ent.m3u8	
+http://s4.latinowebtv.tk:2082/livelwtv/242.m3u8?token=XXci3Rbiwup9OzfpEdpzDA&expires=1525662240
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://i.imgur.com/BCjvu4A.png", Investigation Discovery
 
-http://ragnaroktv.com/hls_live/kr/ID_HD/MzYyMDY2srA0tAQA/idhd.m3u8
+http://s2.latinowebtv.tk:2082/livelwtv/284.m3u8?token=5g6km7feFvF4Q7gdKb1DDw&expires=1525662275
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.imgur.com/FWKDCHW.png", Pasiones
 
@@ -70,7 +70,7 @@ http://ragnaroktv.com/hls_live/kr/PASIONES_HD/MzYyMDY2srA0tAQA/pasiones.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-logo="https://i.imgur.com/kVitu0y.png", Discovery Home & Health
 
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzYyMDY2srA0tAQA/disc_hh.m3u8
+http://s6.latinowebtv.tk:2082/livelwtv/299.m3u8?token=vLFo5wfvYVUFzMrlLSc8Ig&expires=1525662547
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.imgur.com/rSvRSqr.png", Telemundo
 
@@ -182,7 +182,7 @@ http://ragnaroktv.com/hls_live/kr/ISAT/MzYyMDY2srA0tAQA/isat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWAEP0O.png", HBOE
 
-http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzYyMDY2srA0tAQA/hbohd_sub.m3u8
+http://s4.latinowebtv.tk:2082/livelwtv/107.m3u8?token=jwIYdkNh-PkdkMo2iYdjVw&expires=1525662180
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.imgur.com/fB0XY1W.png", HBO 2
 
