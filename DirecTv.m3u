@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/tm3GFj1.png", FOX
 
-http://s8.latinowebtv.tk:2082/livelwtv/128.m3u8?token=I2AX5tyq5tOdhGMGhnWUwA&
+http://s8.latinowebtv.tk:2082/livelwtv/128.m3u8?token=I2AX5tyq5tOdhGMGhnWUwA&expires=1525679596
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.imgur.com/SKMIjjk.png", Warner Channel
 
-http://s8.latinowebtv.tk:2082/livelwtv/226.m3u8?token=fHG0u3nVBLDgqvcQKgC46g&expires=1525649303
+http://s8.latinowebtv.tk:2082/livelwtv/226.m3u8?token=fHG0u3nVBLDgqvcQKgC46g&expires=1525649307
 
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-logo="https://i.imgur.com/4ypp7YU.png", A&E Mundo
 
