@@ -2,67 +2,67 @@
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/tm3GFj1.png", FOX
 
-http://s8.latinowebtv.tk:2082/livelwtv/128.m3u8?token=I2AX5tyq5tOdhGMGhnWUwA&expires=1525679596
+http://mariocs.latino-webtv.com:2048/livexd/128_.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.imgur.com/SKMIjjk.png", Warner Channel
 
-http://s8.latinowebtv.tk:2082/livelwtv/226.m3u8?token=fHG0u3nVBLDgqvcQKgC46g&expires=1525649307
+http://mariocs.latino-webtv.com:2048/livexd/226_.m3u8
 
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-logo="https://i.imgur.com/4ypp7YU.png", A&E Mundo
 
-http://s8.latinowebtv.tk:2082/livelwtv/244.m3u8?token=NuKCTXctipgdG69qcb_FaA&expires=1525649351
+https://live97.elrobacanales.com/budtv/A_E_IZZI_111/chunks.m3u8?nimblesessionid=1301810
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/BnQyG7R.png", SONY
 
-http://s4.latinowebtv.tk:2082/livelwtv/230.m3u8?token=WKEp9JiFaQc9rkxWCPubnw&expires=1525649394
+http://mariocs.latino-webtv.com:2048/livexd/230_.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/6TK652y.png", AXN
 
-http://s2.latinowebtv.tk:2082/livelwtv/140.m3u8?token=p01B3XtFJnPKGH1MxmmcBw&expires=1525649441
+http://mariocs.latino-webtv.com:2048/livexd/140_.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/alErSLo.png", AMC
 
-http://s4.latinowebtv.tk:2082/livelwtv/288.m3u8?token=yeHUwG361M5fP2wKrldkSw&expires=1525649522
+http://198.255.50.34:25461/live/tv26/tv26/1234.m3u8?token=QkBfWRVcFVkSUV5WAFgDBlJSUwAEBwEFVABWAwRQAlVYAQAOAg0CBwUVFEAXFRRUUgxoWwEUCQZTAVceQBQXBEs9XlxEDhVRABUUQBAIC1QRWwceR0ZaU0MIQQtbU1RDFUBSQBJRRQ1RW2cGARcPUlZDDVwQWl8bQ10NbQYECQBXBhUCRAQVTxJeSxJGW0RlVg1SVApYWlQAEgdXDkE0BEsXF2tIdRkiHhUUQAYIEkNSFVIQXxQHDlgKQR5AAgsUVxZFQUQOFTN1FRRAARkSVF0SXl0LFAkVDAEWCkBNRghKPUVdFUBFBlFaXRBGW0QBEU0VXwRObFQOXA1XARUNDlcRFQJEBQdTAAcIUlRDShNeDllbEVlBaBFbBxBYQ1VZClAOGhs=
 
 #EXTINF:-1 tvg-id="FOX Life" tvg-logo="https://i.imgur.com/2DGuJMW.png", FOX Life
 
-http://s7.latinowebtv.tk:2082/livelwtv/283.m3u8?token=CmK_QjauC0jQvFIM61JI1A&expires=1525649566
+http://mariocs.latino-webtv.com:2048/livexd/283_.m3u8
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://i.imgur.com/w1cl1XH.png", TNT Series
 
-http://s5.latinowebtv.tk:2082/livelwtv/227.m3u8?token=_A8V1hl4ZW0NMAXlwAQ9vQ&expires=1525649628
+http://mariocs.latino-webtv.com:2048/livexd/227_.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.imgur.com/Gphu9MU.png", Comedy Central
 
-http://s3.latinowebtv.tk:2082/livelwtv/248.m3u8?token=8Rn7mijiaU15KZr5ktTweQ&expires=1525649677
+https://www.youtube.com/watch?v=2atQnvunGCo
 
 #EXTINF:-1 tvg-id="TBS veryfunny" tvg-logo="https://i.imgur.com/vEtRdZX.png", TBS
 
-http://s8.latinowebtv.tk:2082/livelwtv/228.m3u8?token=1frTVFWJAmHWzjnDrnhrLw&expires=1525649718
+http://mariocs.latino-webtv.com:2048/livexd/228_.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/w7riHfL.png", FX
 
-http://s3.latinowebtv.tk:2082/livelwtv/286.m3u8?token=WDA1KSOEis9GN99AqjzB5w&expires=1525649756
+http://mariocs.latino-webtv.com:2048/livexd/286_.m3u8
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://i.imgur.com/gq2J1Jy.png", Universal Channel
 
-http://s1.latinowebtv.tk:2082/livelwtv/285.m3u8?token=fV25zXNvwzfFxXj5B-4gWg&expires=1525649796
+http://mariocs.latino-webtv.com:2048/livexd/285_.m3u8
 
 #EXTINF:-1 tvg-id="truTV" tvg-logo="https://i.imgur.com/a79oYZb.png", TruTV
 
-http://s7.latinowebtv.tk:2082/livelwtv/243.m3u8?token=z6bwguXJxfSF66ULbqwITA&expires=1525649829
+http://mariocs.latino-webtv.com:2048/livexd/243_.m3u8
 
 #EXTINF:-1 tvg-id="HOLA TV HD" tvg-logo="https://i.imgur.com/Mpgoyu7.png", HOLATV
 
-http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/MzYyMDY2srA0tAQA/hola.m3u8
+https://www.youtube.com/watch?v=2atQnvunGCo
 
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://i.imgur.com/3qirSb0.png", E
 
-http://s4.latinowebtv.tk:2082/livelwtv/242.m3u8?token=XXci3Rbiwup9OzfpEdpzDA&expires=1525662240
+https://www.youtube.com/watch?v=2atQnvunGCo
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://i.imgur.com/BCjvu4A.png", Investigation Discovery
 
-http://s2.latinowebtv.tk:2082/livelwtv/284.m3u8?token=5g6km7feFvF4Q7gdKb1DDw&expires=1525662275
+http://mariocs.latino-webtv.com:2048/livexd/284_.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.imgur.com/FWKDCHW.png", Pasiones
 
@@ -74,7 +74,7 @@ http://s6.latinowebtv.tk:2082/livelwtv/299.m3u8?token=vLFo5wfvYVUFzMrlLSc8Ig&exp
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.imgur.com/rSvRSqr.png", Telemundo
 
-http://ragnaroktv.com/hls_live/kr/TELEMUNDO/MzYyMDY2srA0tAQA/telemun_int.m3u8	
+http://149.56.241.145:25461/live/Local/149018/207.m3u8?token=GhYLV0ILFQ0bWQdWClNSBQNTBwhdDVIGU1JWUAtWAlNRA1pXAwYEUltDShZAQkFWBA86WVwbWVEBUk0UTBVQEz5dBxQLQQYEG01EQFpbVhFfUkkSSFAHQQtHUgYNVgdDTRYGTkUGRVlYDTlQVkBaUABAX15NVQ9PEwoPaV0DWAAPUEEME1MVGxsIFUQRDBFnAA4AVldXCgBQRQVTVUZlBBNBQ2UfIhl2F0NKFlFfR0EEFgASAhtRUQlTQxobBVoUD0ARTxNZFWd8Q0oWVk5HVgsRDF9WG1lBXFYUDhtKFwgSaxFTQhdFUlgMA0YRDBECR05HXVlBPABeCw9TWhJcDg9HQQwTUxUbGwwJWlpCXEE6EgxUGgNBUAFXVAYbGw==
 
 #EXTINF:-1 tvg-id="elgourmet" tvg-logo="https://i.imgur.com/rlGpxbE.png", elgourmet
 
