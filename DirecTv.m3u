@@ -90,15 +90,15 @@ http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzYyMDY2srA0tAQA/hb0fam.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/pt6Hw43.png", Tooncast
 
-http://s7.latinowebtv.tk:2082/livelwtv/282.m3u8?token=XopgmDJOEW_5YQdqjR1pFQ&expires=1525649887
+http://mariocs.latino-webtv.com:2048/livexd/282_.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.imgur.com/ajzFBOy.png", Cartoon Network
 
-http://s2.latinowebtv.tk:2082/livelwtv/256.m3u8?token=dmFhylNTWCuaToRVgAsQbg&expires=1525647982
+http://mariocs.latino-webtv.com:2048/livexd/256_.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/dkCTLYQ.png", Nickelodeon
 
-http://s6.latinowebtv.tk:2082/livelwtv/254.m3u8?token=ItK4BsSFM2XOCbnG1n922A&expires=1525649912
+http://mariocs.latino-webtv.com:2048/livexd/254_.m3u8
 
 #EXTINF:-1 tvg-id="Nick 2" tvg-logo="https://i.imgur.com/Db7PUBr.png", Nick 2
 
@@ -106,15 +106,15 @@ http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzYyMDY2srA0tAQA/nick2.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.imgur.com/syNDl09.png", Disney Channel
 
-http://s3.latinowebtv.tk:2082/livelwtv/104.m3u8?token=XGme26YKdTqQEKtiJnun0w&expires=1525649981
+http://mariocs.latino-webtv.com:2048/livexd/104_.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://i.imgur.com/9r51nCG.png", Disney Junior
 
-http://s2.latinowebtv.tk:2082/livelwtv/294.m3u8?token=SIEqAF2D7-vgWnFdKpxOTQ&expires=1525650042
+http://mariocs.latino-webtv.com:2048/livexd/294_.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.imgur.com/ElsCeH6.png", Disney XD
 
-http://s5.latinowebtv.tk:2082/livelwtv/280.m3u8?token=jLjllc9MZ8oyQyz1yoAUXg&expires=1525650011
+http://mariocs.latino-webtv.com:2048/livexd/280_.m3u8
 
 #EXTINF:-1 tvg-id="Natgeo Kids" tvg-logo="https://i.imgur.com/50Ypa0B.png", Natgeo Kids
 
@@ -122,15 +122,15 @@ http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzYyMDY2srA0tAQA/natgeo_kids.m3
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/ySdCnos.png", Discovery Kids
 
-http://ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzYyMDY2srA0tAQA/disc_kids.m3u8
+http://mariocs.latino-webtv.com:2048/livexd/281_.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang Cartoon" tvg-logo="https://i.imgur.com/Vxhgqom.png", Boomerang
 
-http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzYyMDY2srA0tAQA/boomerang.m3u8
+http://mariocs.latino-webtv.com:2048/livexd/225_.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/7shB0iz.png", TNT
 
-http://ragnaroktv.com/hls_live/kr/TNT_HD/MzYyMDY2srA0tAQA/tnt.m3u8
+http://tvpremiumhd.club/lista-gratuita/mundial/g540.ts
 
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.imgur.com/jH5XlDe.png", Golden
 
