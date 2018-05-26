@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/tm3GFj1.png", FOX
 
-http://mariocs.latino-webtv.com:2048/livexd/128_.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1747.ts
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://i.imgur.com/SKMIjjk.png", Warner Channel
 
-http://mariocs.latino-webtv.com:2048/livexd/226_.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1796.ts
 
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-logo="https://i.imgur.com/4ypp7YU.png", A&E Mundo
 
@@ -38,7 +38,7 @@ http://tecnotv.info/premium/comedia-central
 
 #EXTINF:-1 tvg-id="TBS veryfunny" tvg-logo="https://i.imgur.com/vEtRdZX.png", TBS
 
-http://mariocs.latino-webtv.com:2048/livexd/228_.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1756.ts
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/w7riHfL.png", FX
 
@@ -96,6 +96,10 @@ http://tecnotv.info/premium/cartoon
 
 http://tecnotv.info/premium/cartoon
 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.imgur.com/ajzFBOy.png", Cartoon Network USA
+
+http://tvpremiumhd.club/lista-gratuita/green/tv/va/8985.ts
+
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/dkCTLYQ.png", Nickelodeon
 
 http://tecnotv.info/premium/nick
@@ -126,7 +130,7 @@ http://tecnotv.info/premium/discovery-kids
 
 #EXTINF:-1 tvg-id="Boomerang Cartoon" tvg-logo="https://i.imgur.com/Vxhgqom.png", Boomerang
 
-http://tecnotv.info/premium/discovery-kids
+http://tvpremiumhd.club/lista-gratuita/green/tv/va/16398.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/7shB0iz.png", TNT
 
@@ -142,7 +146,7 @@ http://tecnotv.info/premium/tcm
 
 #EXTINF:-1 tvg-id="FXMV" tvg-logo="https://i.imgur.com/a2uyIUA.png", FXMV
 
-http://tecnotv.info/premium/fx
+http://tvpremiumhd.club/lista-gratuita/green/tv/va/16193.ts
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.imgur.com/3VNSnbl.png", Cinecanal
 
