@@ -10,31 +10,31 @@ http://mariocs.latino-webtv.com:2048/livexd/226_.m3u8
 
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-logo="https://i.imgur.com/4ypp7YU.png", A&E Mundo
 
-https://live97.elrobacanales.com/budtv/A_E_IZZI_111/chunks.m3u8?nimblesessionid=1301810
+http://tecnotv.info/premium/ae
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/BnQyG7R.png", SONY
 
-http://mariocs.latino-webtv.com:2048/livexd/230_.m3u8
+http://tecnotv.info/premium/sony
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/6TK652y.png", AXN
 
-http://mariocs.latino-webtv.com:2048/livexd/140_.m3u8
+http://tecnotv.info/premium/axn
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/alErSLo.png", AMC
 
-http://198.255.50.34:25461/live/tv26/tv26/1234.m3u8
+http://tecnotv.info/premium/amc
 
 #EXTINF:-1 tvg-id="FOX Life" tvg-logo="https://i.imgur.com/2DGuJMW.png", FOX Life
 
-http://mariocs.latino-webtv.com:2048/livexd/283_.m3u8
+http://tecnotv.info/premium/fox-life
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://i.imgur.com/w1cl1XH.png", TNT Series
 
-http://mariocs.latino-webtv.com:2048/livexd/227_.m3u8
+http://tecnotv.info/premium/tnt-series
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://i.imgur.com/Gphu9MU.png", Comedy Central
 
-https://www.youtube.com/watch?v=2atQnvunGCo
+http://tecnotv.info/premium/comedia-central
 
 #EXTINF:-1 tvg-id="TBS veryfunny" tvg-logo="https://i.imgur.com/vEtRdZX.png", TBS
 
@@ -42,233 +42,232 @@ http://mariocs.latino-webtv.com:2048/livexd/228_.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/w7riHfL.png", FX
 
-http://mariocs.latino-webtv.com:2048/livexd/286_.m3u8
+http://tecnotv.info/premium/fx
 
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://i.imgur.com/gq2J1Jy.png", Universal Channel
 
-http://mariocs.latino-webtv.com:2048/livexd/285_.m3u8
+http://tecnotv.info/premium/universal-channel
 
 #EXTINF:-1 tvg-id="truTV" tvg-logo="https://i.imgur.com/a79oYZb.png", TruTV
 
-http://mariocs.latino-webtv.com:2048/livexd/243_.m3u8
+http://tecnotv.info/premium/universal-channel
 
 #EXTINF:-1 tvg-id="HOLA TV HD" tvg-logo="https://i.imgur.com/Mpgoyu7.png", HOLATV
 
-https://www.youtube.com/watch?v=2atQnvunGCo
+http://tecnotv.info/premium/universal-channel
 
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://i.imgur.com/3qirSb0.png", E
 
-https://www.youtube.com/watch?v=2atQnvunGCo
+http://tecnotv.info/premium/universal-channel
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://i.imgur.com/BCjvu4A.png", Investigation Discovery
 
-http://mariocs.latino-webtv.com:2048/livexd/284_.m3u8
+http://tecnotv.info/premium/id
 
 #EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://i.imgur.com/FWKDCHW.png", Pasiones
 
-http://ragnaroktv.com/hls_live/kr/PASIONES_HD/MzYyMDY2srA0tAQA/pasiones.m3u8
+http://tecnotv.info/premium/id
 
 #EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-logo="https://i.imgur.com/kVitu0y.png", Discovery Home & Health
 
-http://s6.latinowebtv.tk:2082/livelwtv/299.m3u8?token=vLFo5wfvYVUFzMrlLSc8Ig&expires=1525662547
+http://tecnotv.info/premium/hh
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.imgur.com/rSvRSqr.png", Telemundo
 
-http://66.70.179.201:25461/live/Local/149018/207.m3u8
+http://tecnotv.info/premium/telemundo
 
 #EXTINF:-1 tvg-id="elgourmet" tvg-logo="https://i.imgur.com/rlGpxbE.png", elgourmet
 
-http://hackveneno.tk/gs/bhdtoev47ewgi2z2745ma580fxa9flk73r6q1paeycjn5su33/elgourmet-q3.php?.m3u8
+http://tecnotv.info/premium/gourmet
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.imgur.com/p3YsBWh.png", MTV
 
-http://ragnaroktv.com/hls_live/kr/MTV_HD/MzYyMDY2srA0tAQA/mtvhd.m3u8
+http://tecnotv.info/premium/mtvlive
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.imgur.com/nXnLsX6.png", HBO Family
 
-http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzYyMDY2srA0tAQA/hb0fam.m3u8
+http://tecnotv.info/premium/hbo-family
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/pt6Hw43.png", Tooncast
 
-http://mariocs.latino-webtv.com:2048/livexd/282_.m3u8
+http://tecnotv.info/premium/cartoon
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.imgur.com/ajzFBOy.png", Cartoon Network
 
-http://nitrotv.for-the.biz:25461/live/IZZITV991/etklK40ke7/11825.ts
+http://tecnotv.info/premium/cartoon
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/dkCTLYQ.png", Nickelodeon
 
-http://mariocs.latino-webtv.com:2048/livexd/254_.m3u8
+http://tecnotv.info/premium/nick
 
 #EXTINF:-1 tvg-id="Nick 2" tvg-logo="https://i.imgur.com/Db7PUBr.png", Nick 2
 
-http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzYyMDY2srA0tAQA/nick2.m3u8
+http://tecnotv.info/premium/nick2
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.imgur.com/syNDl09.png", Disney Channel
 
-http://mariocs.latino-webtv.com:2048/livexd/104_.m3u8
+http://tecnotv.info/premium/disney-channel
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://i.imgur.com/9r51nCG.png", Disney Junior
 
-http://mariocs.latino-webtv.com:2048/livexd/294_.m3u8
+http://tecnotv.info/premium/disney-jr
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.imgur.com/ElsCeH6.png", Disney XD
 
-http://mariocs.latino-webtv.com:2048/livexd/280_.m3u8
+http://tecnotv.info/premium/disney-xd
 
 #EXTINF:-1 tvg-id="Natgeo Kids" tvg-logo="https://i.imgur.com/50Ypa0B.png", Natgeo Kids
 
-http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzYyMDY2srA0tAQA/natgeo_kids.m3u8
+http://tecnotv.info/premium/natgeo-kids
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/ySdCnos.png", Discovery Kids
 
-http://mariocs.latino-webtv.com:2048/livexd/281_.m3u8
+http://tecnotv.info/premium/discovery-kids
 
 #EXTINF:-1 tvg-id="Boomerang Cartoon" tvg-logo="https://i.imgur.com/Vxhgqom.png", Boomerang
 
-http://mariocs.latino-webtv.com:2048/livexd/225_.m3u8
+http://tecnotv.info/premium/discovery-kids
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/7shB0iz.png", TNT
 
-http://tvpremiumhd.club/lista-gratuita/mundial/g540.ts
+http://tecnotv.info/premium/tnt
 
 #EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.imgur.com/jH5XlDe.png", Golden
 
-http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzYyMDY2srA0tAQA/golden.m3u8
+http://tecnotv.info/premium/golden
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.imgur.com/kslaL5I.png", TCM
 
-http://ragnaroktv.com/hls_live/kr/TCM/MzYyMDY2srA0tAQA/tcm.m3u8
+http://tecnotv.info/premium/tcm
 
 #EXTINF:-1 tvg-id="FXMV" tvg-logo="https://i.imgur.com/a2uyIUA.png", FXMV
 
-http://199.180.114.183:25461/live/claro/01042018/109.m3u8?token=GEAJABZcRwsaVgBRAgwPCwdcBgJTVQFcVwEAUgAEAVFaUQRWXANRBwoQHkZCTUVWUlRvWQJGX1UBWhxETRJXRTwLBUNfFlETFBBGDVxcFQkDFRJADwBHXhNRAV8JQx4VBhoVBBdaBF1nVlcSWFpSEQlXRVwKSEcLXzxUA1UAXFNBWENRRxhHWEtCEF4TbVJfVl9fXg8HBERVBlxGaARAQkMxTyBLdUsTFBBQDUVLVkdWGwoSVFxSVBNPEgVXFFxDERtDW0dkIBMUEFccRVxZQFpWXhJcRghXRFsSShoIQWgRBxIVF1EEXF1AEF4TCRUfEVRRSDkHCgpfBlMSUQ5cREFYQ1FHGEdcV1xbEF5LaENaXRIKRFZVVARBTQ==
+http://tecnotv.info/premium/fx
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://i.imgur.com/3VNSnbl.png", Cinecanal
 
-http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzYyMDY2srA0tAQA/cinecanal.m3u8
+http://tecnotv.info/premium/cinecanal
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.imgur.com/ltbVY3v.png", Studio Universal
 
-http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzYyMDY2srA0tAQA/stdio_univ.m3u8
+http://tecnotv.info/premium/studio-universal
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.imgur.com/JGXtHSS.png", Cinemax
 
-http://ragnaroktv.com/hls_live/kr/CINEMAX/MzYyMDY2srA0tAQA/c1nemax.m3u8
+http://tecnotv.info/premium/cinemax
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://i.imgur.com/X5l4EMt.png", Paramount Channel
 
-http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzYyMDY2srA0tAQA/param.m3u8
+http://tecnotv.info/premium/cinemax
 
 #EXTINF:-1 tvg-id="Sundance Channel" tvg-logo="https://i.imgur.com/nq7mz5v.png", Sundance Channel
 
-http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzYyMDY2srA0tAQA/sundance.m3u8	
+http://tecnotv.info/premium/cinemax
 
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.imgur.com/KS173AV.png", Cine Latino
 
-http://ragnaroktv.com/hls_live/kr/CINELATINO/MzYyMDY2srA0tAQA/cinelatino.m3u8
+http://tecnotv.info/premium/cinemax
 
 #EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.imgur.com/hXRxnmN.png", De Película
 
-http://ragnaroktv.com/hls_live/kr/DEPELICULA/MzYyMDY2srA0tAQA/depelicula.m3u8
+http://tecnotv.info/premium/cinemax
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://i.imgur.com/8JnF02M.png", Space"
 
-http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzYyMDY2srA0tAQA/space.m3u8
+http://tecnotv.info/premium/space
 
 #EXTINF:-1 tvg-id="ISAT" tvg-logo="https://i.imgur.com/yvpMx9A.png", ISAT
 
-http://ragnaroktv.com/hls_live/kr/ISAT/MzYyMDY2srA0tAQA/isat.m3u8
+http://tecnotv.info/premium/space
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWAEP0O.png", HBOE
 
-http://s4.latinowebtv.tk:2082/livelwtv/107.m3u8?token=jwIYdkNh-PkdkMo2iYdjVw&expires=1525662180
+http://tecnotv.info/premium/hbo
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.imgur.com/fB0XY1W.png", HBO 2
 
-http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzYyMDY2srA0tAQA/hb02.m3u8
+http://tecnotv.info/premium/hbo2
 
 #EXTINF:-1 tvg-id="HBO Plus Este" tvg-logo="https://i.imgur.com/kEcbiVK.png", HBO Plus
 
-http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzYyMDY2srA0tAQA/hboplus.m3u8
+http://tecnotv.info/premium/hbo-plus
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.imgur.com/fjoBejj.png", HBO Signature
 
-http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzYyMDY2srA0tAQA/hbosign.m3u8 
+http://tecnotv.info/premium/hbo-plus
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.imgur.com/QQf96o8.png", HBO Family
 
-http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzYyMDY2srA0tAQA/hb0fam.m3u8
+http://tecnotv.info/premium/hbo-family
 
 #EXTINF:-1 tvg-id="Max Prime" tvg-logo="https://i.imgur.com/voI4sWh.png", Max Prime
 
-http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzYyMDY2srA0tAQA/m4x_prime.m3u8
+http://tecnotv.info/premium/maxprime
 
 
 #EXTINF:-1 tvg-id="Max UP" tvg-logo="https://i.imgur.com/nrfOxOk.png", Max UP
 
-http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzYyMDY2srA0tAQA/m4xup.m3u8
+http://tecnotv.info/premium/maxprime
 
 #EXTINF:-1 tvg-id="FOX 1 Oeste" tvg-logo="https://i.imgur.com/NRs1Xd7.png", FOX Series
 
-http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzYyMDY2srA0tAQA/f0x_series.m3u8
+http://tecnotv.info/premium/fox-family
 
 #EXTINF:-1 tvg-id="FOX Family" tvg-logo="https://i.imgur.com/GGjxqPb.png", FOX Family
 
-http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzYyMDY2srA0tAQA/f0x_family.m3u8
+http://tecnotv.info/premium/fox-family
 
 #EXTINF:-1 tvg-id="FOX Comedy" tvg-logo="https://i.imgur.com/7a8JgSx.png", FOX Comedy
 
-http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzYyMDY2srA0tAQA/f0x_comedy.m3u8
+http://tecnotv.info/premium/fox-family
 
 #EXTINF:-1 tvg-id="FOX Movies" tvg-logo="https://i.imgur.com/AMoSt9X.png", FOX Movies
 
-http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzYyMDY2srA0tAQA/f0x_movies.m3u8
+http://tecnotv.info/premium/fox-cinema
 
 #EXTINF:-1 tvg-id="FOX Classics" tvg-logo="https://i.imgur.com/hWYMVlQ.png", FOX Classics
 
-http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzYyMDY2srA0tAQA/f0x_classics.m3u8
+http://tecnotv.info/premium/fox-cinema
 
 #EXTINF:-1 tvg-id="FOX Action" tvg-logo="https://i.imgur.com/Cfodwd8.png", FOX Action
 
-http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzYwMTSwMDc3MAcA/fox_action_mx.m3u8
+http://tecnotv.info/premium/fox-action
 
 #EXTINF:-1 tvg-id="FOX Cinema" tvg-logo="https://i.imgur.com/In3w8cx.png", FOX Cinema 
 
-http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzYyMDY2srA0tAQA/fox_action_mx.m3u8
+http://tecnotv.info/premium/fox-cinema
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/TXl2SPO.png", ESPN
 
-http://ragnaroktv.com/hls_live/kr/ESPN_HD/MzYyMDY2srA0tAQA/espn.m3u8
+http://tecnotv.info/premium/espn
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/FkeuKHd.png", ESPN 2
 
-http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzYyMDY2srA0tAQA/espn2.m3u8
+http://tecnotv.info/premium/espn2
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/D2xRX3H.png", ESPN 3
 
-http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzYyMDY2srA0tAQA/espn3_kr.m3u8
+http://tecnotv.info/premium/espn3
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-logo="https://i.imgur.com/vgCSSw1.png", NBA TV HD
 
-https://uk-20g.firstonetv.net:4434/hls/78589132b7381c31a9b99243cdb952bb/1525517075/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135352e6d6264722e63662f7032702f61633336613336393665633738316261383865313436393434373732333034302e6d3375383f73743d595f2d68705f6e7a5959577754704747784b636b795126653d31353235353331343735.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1781.ts
 
 #EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://i.imgur.com/0YaWV0p.png", Golf Channel
 
-http://ragnaroktv.com/hls_live/kr/GOLF_CHANNEL_HD/MzYyMDY2srA0tAQA/golfchannel.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/va/168501.ts
 
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://i.imgur.com/96Wv968.png", CNN en Español
 
-http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/MzYyMDY2srA0tAQA/cnnee.m3u8
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1762.ts
 
 #EXTINF:-1 tvg-id="Cable Noticias" tvg-logo="https://i.imgur.com/7VJir5r.png", Cable Noticias
 
-http://ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/MzYyMDY2srA0tAQA/cablenoticias.m3u8
-
+http://tvpremiumhd.club/lista-gratuita/green/tv/tp/1762.ts
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/Ht3weJP.png", National Geographic
 
-http://ragnaroktv.com/hls_live/kr/NATGEO_HD/MzYyMDY2srA0tAQA/natgeo.m3u8
+http://tecnotv.info/premium/natgeo
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.imgur.com/0DB0j6Y.png", Discovery Channel
 
